@@ -77,6 +77,6 @@ fn main() {
 
         random.push(random_char);
     }
-
+    println!("Concluido!");
     println!("A senha gerada foi: {random}");
 }
